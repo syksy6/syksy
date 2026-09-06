@@ -3,14 +3,16 @@
 
 /* root setting */
 :root{
-  --title-color: #408ca6;
-  --main-color: ;
+  --title-color: #504946;
+  --main-color: #F5F5F5;
+  --base-color: #D2CBC9;
+  --font-color: #757575;
   --main-font: "Roboto", "BIS UDPGothic", sans-serif;
 }
 
 
 .top {
-  color: var(--main-color);
+  color: var(--font-color);
   font-size: 0.98em;
   font-family: var(--main-font);
   width: 90%;
