@@ -9,9 +9,9 @@
 }
 
 
-.toppage {
+.top {
   color: var(--main-color);
-  font-size: 8pt;
+  font-size: 0.98em;
   font-family: "Zen Maru Gothic";
   width: 90%;
   max-width: 650px;
