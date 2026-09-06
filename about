@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>syksy.</title>
+</head>
+<body>
+  <link rel="stylesheet" href="style.css">
+  <div class="top"><div class="haco">
+  <h1>はじめに</h1><BR>
+    このサイトは甜子による二次創作小説サイトです。<BR>
+　　公式や原作者様、現実のあらゆるものとは無関係の趣味サイトです。ご了承ください。<BR>
+　　趣味で書いた二次創作小説の情報をまとめています。そのうち作品倉庫にしたいとも思っている。<BR>
+  <a href="./about.html">about</a> <a href="https://x.com/revontuletxxx/ target="_blank" rel="noopener"">X</a> <a href="./about.html">pixiv</a> <a href="./contact.html">contact</a><BR><BR><BR>
+
+  by 甜子
+  </div></div>
+</body>
+</html>
