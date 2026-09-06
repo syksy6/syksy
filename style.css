@@ -12,7 +12,7 @@
 .top {
   color: var(--main-color);
   font-size: 0.98em;
-  font-family: "Zen Maru Gothic";
+  font-family: var(--main-font);
   width: 90%;
   max-width: 650px;
   margin: 0 auto;
