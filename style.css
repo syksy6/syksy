@@ -15,7 +15,6 @@
   color: var(--font-color);
   font-size: 0.98em;
   font-family: var(--main-font);
-  width: fit-content;
   max-width: 650px;
   width: 90%;
   margin: 0 auto;
