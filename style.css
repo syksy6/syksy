@@ -13,6 +13,12 @@
   color: var(--main-color);
   font-size: 8pt;
   font-family: "Zen Maru Gothic";
+  width: 90%;
+  max-width: 650px;
+  margin: 0 auto;
+  letter-spacing: 0.07em;
+  line-height: 1.5;
+
 }
 
 </style>
